@@ -1,0 +1,15 @@
+1. How do you deploy PySpark applications in a production environment?
+2. What are some best practices for monitoring and logging PySpark jobs?
+3. How do you manage resources and scheduling in a PySpark application?
+4. Write a PySpark job to perform a specific data processing task (e.g., filtering data, aggregating results).
+5. You have a dataset containing user activity logs with missing values and inconsistent data types. Describe how you would clean and standardize this dataset using PySpark.
+6. Given a dataset with nested JSON structures, how would you flatten it into a tabular format using PySpark?
+8. Your PySpark job is running slower than expected due to data skew. Explain how you would identify and address this issue.
+9. You need to join two large datasets, but the join operation is causing out-of-memory errors. What strategies would you use to optimize this join?
+10. Describe how you would set up a real-time data pipeline using PySpark and Kafka to process streaming data.
+11. You are tasked with processing real-time sensor data to detect anomalies. Explain the steps you would take to implement this using PySpark.
+12. Describe how you would design and implement an ETL pipeline in PySpark to extract data from an RDBMS, transform it, and load it into a data warehouse.
+13. Given a requirement to process and transform data from multiple sources (e.g., CSV, JSON, and Parquet files), how would you handle this in a PySpark job?
+14. You need to integrate data from an external API into your PySpark pipeline. Explain how you would achieve this.
+15. Describe how you would use PySpark to join data from a Hive table and a Kafka stream.
+16. You need to integrate data from an external API into your PySpark pipeline. Explain how you would achieve this.
